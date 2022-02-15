@@ -112,6 +112,7 @@ ul.site-navigation li {
   border-bottom: 1px solid rgba(214, 214, 214, 0.4);
   padding: 20px 20px 20px 20px;
   font-size: 1.1em;
+  list-style-type: none;
 }
 
 ul.site-navigation li i {
